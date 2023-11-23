@@ -37,8 +37,8 @@ class AdvancedMessageLogger:
 
 # Пример инициализации и использования:
 # import logging
-# from unique_message_logger import UniqueMessageLogger
+# from advanced_message_logger import AdvancedMessageLogger
 #
 # logger = logging.getLogger(__name__)
 # console_logger = logging.getLogger('console')
-# unique_logger = UniqueMessageLogger(logger, console_logger)
+# unique_logger = AdvancedMessageLogger(logger, console_logger)
